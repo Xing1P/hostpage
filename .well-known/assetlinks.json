@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.hanuman.androiddev",
+    "sha256_cert_fingerprints":
+    ["BE:39:5D:5A:FC:42:72:FE:43:67:B0:61:4F:D4:56:0D:55:10:75:B9:29:42:47:27:ED:7E:7A:86:D5:2C:1E:48"]
+  }
+}]
